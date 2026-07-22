@@ -1,7 +1,7 @@
 {
   "enable_app": true,
   "enable_app_ios": true,
-  "mostrar_ads": true,
+  "mostrar_ads": false,
   "mostrar_ads_ios": false,
   "min_app_version": "1.0.0",
   "min_app_version_ios": "1.0.0",
@@ -25,8 +25,8 @@
     "ads": []
   },
   "help_section_html": "seccion ayuda",
-  "help_section_enabled": true,
+  "help_section_enabled": false,
   "footer_drawer_html": "",
-  "commentary": false,
+  "commentary": true,
   "commentary_ios": false
 }
