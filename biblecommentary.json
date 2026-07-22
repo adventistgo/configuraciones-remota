@@ -24,8 +24,8 @@
     },
     "ads": []
   },
-  "help_section_html": "",
-  "help_section_enabled": false,
+  "help_section_html": "seccion ayuda",
+  "help_section_enabled": true,
   "footer_drawer_html": "",
   "commentary": false,
   "commentary_ios": false
