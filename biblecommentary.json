@@ -28,5 +28,5 @@
   "help_section_enabled": false,
   "footer_drawer_html": "",
   "commentary": false,
-  "commentary_ios": false
+  "commentary_ios": true
 }
