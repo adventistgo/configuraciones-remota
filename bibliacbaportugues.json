@@ -1,0 +1,32 @@
+{
+  "enable_app": true,
+  "enable_app_ios": true,
+  "mostrar_ads": false,
+  "mostrar_ads_ios": false,
+  "min_app_version": "1.0.0",
+  "min_app_version_ios": "1.0.0",
+  "app_store_url": "",
+  "play_store_url": "",
+  "launch_ad_message": "",
+  "launch_ad_message_ios": "",
+  "copy_message_header": "",
+  "copy_message_header_ios": "",
+  "message_suscription": "",
+  "message_suscription_ios": "",
+  "cancelar_suscripcion": false,
+  "cancelar_suscripcion_ios": false,
+  "enable_premium_subscription": false,
+  "enable_premium_subscription_ios": false,
+  "ads_config": {
+    "welcome": {
+      "enabled": false,
+      "html": ""
+    },
+    "ads": []
+  },
+  "help_section_html": "seccion ayuda",
+  "help_section_enabled": false,
+  "footer_drawer_html": "",
+  "commentary": true,
+  "commentary_ios": true
+}
