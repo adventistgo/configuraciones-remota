@@ -2,7 +2,7 @@
   "enable_app": true,
   "enable_app_ios": true,
   "mostrar_ads": false,
-  "mostrar_ads_ios": true,
+  "mostrar_ads_ios": false,
   "min_app_version": "1.0.0",
   "min_app_version_ios": "1.0.0",
   "app_store_url": "https://apps.apple.com/us/app/biblia-cba-pt/id6817471059",
